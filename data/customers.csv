@@ -1,0 +1,7 @@
+customer_id,name,city,age,created_at
+1,Anna,Kyiv,25,2023-01-10
+2,Oleh,Lviv,32,2023-01-15
+3,Iryna,Odesa,29,2023-02-01
+4,Mykola,Kyiv,45,2023-02-10
+5,Andrii,Kharkiv,38,2023-03-05
+6,Olena,Lviv,22,2023-03-20
